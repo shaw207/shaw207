@@ -1,4 +1,4 @@
-¡Hola! Soy **Chengxun Wu** (@shaw207) y estoy en el último curso de **Ingeniería del Software en U-tad**. Desarrollo aplicaciones web y Android, trabajo con sistemas distribuidos y programo mecánicas e interfaces para videojuegos.
+¡Hola! Soy **Andy Wu** (@shaw207) y estoy en el último curso de **Ingeniería del Software en U-tad**. Desarrollo aplicaciones web y Android, trabajo con sistemas distribuidos y programo mecánicas e interfaces para videojuegos.
 
 Me gusta afrontar nuevos retos y buscar soluciones elegantes y eficientes, aplicando algoritmos y patrones de diseño. Busco prácticas en desarrollo de software o de videojuegos donde pueda seguir aprendiendo y aportar al equipo.
 
